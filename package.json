@@ -1,0 +1,19 @@
+{
+  "name": "bot-wpp",
+  "version": "1.0.0",
+  "description": "minha primeira aplicação de chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "primeira",
+    "aplicação",
+    "chatbot"
+  ],
+  "author": "bruno bonfim",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
